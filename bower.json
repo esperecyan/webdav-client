@@ -1,0 +1,28 @@
+{
+	"name": "esperecyan-webdav-client",
+	"description": "The WebDAV client library which is designed like “File and Directory Entries API”.",
+	"main": "webdav.es",
+	"moduleType": "globals",
+	"license": "MPL-2.0",
+	"keywords": [
+		"webdav",
+		"rfc4918",
+		"file-and-directory-entries-api",
+		"webextensions",
+		"webextension"
+	],
+	"authors": [
+		"100の人"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/esperecyan/webdav-client"
+	},
+	"ignore": [
+		"package.json",
+		"package-lock.json",
+		"node_modules",
+		"conf.json",
+		"tests"
+	]
+}

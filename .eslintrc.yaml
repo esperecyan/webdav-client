@@ -1,0 +1,29 @@
+extends: '@esperecyan/eslint-config/modern'
+
+rules:
+    max-len:
+        - warn
+        -   code: 120
+            ignoreUrls: true
+    require-jsdoc:
+        - warn
+        - require:
+            MethodDefinition: true
+            ClassDeclaration: true
+            ArrowFunctionExpression: true
+            FunctionExpression: true
+    valid-jsdoc:
+        - warn
+        -   prefer:
+                return: returns
+                private: access private
+                protected: access protected
+                public: access public
+            preferType:
+                bool: boolean
+                Boolean: boolean
+                function: Function
+                Number: number
+                object: Object
+                String: string
+            requireParamDescription: false

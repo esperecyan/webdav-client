@@ -1,0 +1,10 @@
+{
+	"plugins": ["plugins/markdown"],
+	"source": {
+		"include": ["webdav.es"],
+		"includePattern": ".+\\.es$"
+	},
+	"opts": {
+		"destination": "docs/"
+	}
+}
