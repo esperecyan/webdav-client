@@ -19,10 +19,12 @@
 		"url": "https://github.com/esperecyan/webdav-client"
 	},
 	"ignore": [
+		".gitignore",
 		"package.json",
 		"package-lock.json",
 		"node_modules",
 		"conf.json",
+		"karma.conf.js",
 		"tests"
 	]
 }
