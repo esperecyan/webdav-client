@@ -22,7 +22,7 @@ Usage
 -----
 
 ```html
-<script src="webdav.es"></script>
+<script src="webdav.js"></script>
 ```
 
 ### Download

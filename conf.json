@@ -1,8 +1,8 @@
 {
 	"plugins": ["plugins/markdown"],
 	"source": {
-		"include": ["webdav.es"],
-		"includePattern": ".+\\.es$"
+		"include": ["webdav.js"],
+		"includePattern": ".+\\.js$"
 	},
 	"opts": {
 		"destination": "docs/"
