@@ -1,5 +1,5 @@
-esperecyan-webdav-client
-========================
+@esperecyan/webdav-client
+=========================
 This is the WebDAV client library which is designed like [File and Directory Entries API] \([MDN]).
 
 [File and Directory Entries API]: https://wicg.github.io/entries-api/ "This specification documents web browser support for file and directory upload by drag-and-drop operations. It introduces types representing directories with methods for asynchronous traversal, and extends HTMLInputElement and DataTransferItem."
@@ -27,6 +27,10 @@ Usage
 
 ### Download
 https://github.com/esperecyan/webdav-client/releases
+
+Or
+
+`npm install @esperecyan/webdav-client`
 
 Or
 
