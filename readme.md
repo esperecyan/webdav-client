@@ -42,7 +42,7 @@ https://esperecyan.github.io/webdav-client/index.html
 
 Supports
 --------
-- Microsoft Edge 15 or later
+- Microsoft Edge
 - Firefox
 - Firefox ESR
 - Opera
