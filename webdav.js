@@ -1,7 +1,7 @@
 /**
  * @file <b>esperecyan-webdav-client</b> is the WebDAV client library
  *      which is designed like [File and Directory Entries API]{@link https://wicg.github.io/entries-api/}.
- * @version 2.0.2
+ * @version 2.0.3
  * @see [File and Directory Entries API — Web APIs | MDN]{@link
  *      https://developer.mozilla.org/docs/Web/API/File_and_Directory_Entries_API}
  * @license MPL-2.0
